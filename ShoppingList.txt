@@ -5,3 +5,5 @@ Mouse
 Keyboard
 Laptop Bag
 Data
+Mobile Phone
+Usb Data Cable
